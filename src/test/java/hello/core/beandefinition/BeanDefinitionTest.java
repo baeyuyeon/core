@@ -12,6 +12,7 @@ public class BeanDefinitionTest {
 
     //GenericXmlApplicationContext ac = new GenericXmlApplicationContext("appConfig.xml");
 
+
     @Test
     @DisplayName("빈 설정 메타정보 확인")
     void findApplicationBean(){
